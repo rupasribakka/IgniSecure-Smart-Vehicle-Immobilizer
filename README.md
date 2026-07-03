@@ -86,8 +86,6 @@ IgniSecure-Smart-Vehicle-Immobilizer
 └── README.md
 ```
 
----
-
 # ⚙️ System Workflow
 
 ```
